@@ -56,7 +56,6 @@ hr {
 
 .player {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
@@ -124,6 +123,7 @@ hr {
 .course__banner img {
   width: 224px;
   height: 104;
+  margin: 0 auto;
 }
 
 .course__info {
